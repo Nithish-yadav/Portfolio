@@ -423,6 +423,9 @@ span {
   html {
     font-size: 50%;
   }
+.about {
+width:100%;
+}
   .contact form .input-box input {
     margin-left: 6rem;
     width: 100%;
@@ -481,7 +484,9 @@ span {
     width: 90vw;
     margin-top: -1rem;
   }
-
+.about {
+width:100%;
+}
   .portfolio-main-container .portfolio-mid-container .exp {
     margin: 1rem -1rem;
     margin-top: 1rem;
