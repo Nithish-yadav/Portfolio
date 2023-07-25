@@ -218,9 +218,9 @@ span {
 }
 
 /* Portfolio */
-.portfolio {
+/*.portfolio {
   background: var(--second-bg-color);
-}
+} */
 .portfolio-main-container {
   display: flex;
   justify-content: center;
